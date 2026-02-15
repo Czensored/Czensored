@@ -21,6 +21,8 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=neovim" height="55" alt="neovim" />
   <img width="10" />
+  <img src="https://skillicons.dev/icons?i=vim" height="55" alt="neovim" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=bash" height="55" alt="bash" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="55" alt="pytorch" />
