@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Isaac</h1>
 
 <p align="center">
-  I’m a CS + Math student (’26) who builds things at the intersection of <b>software engineering</b> and <b>data science / ML</b>—from fast, low-level tooling in Rust/C++ to end-to-end modeling workflows in Python/PyTorch. I care about clean experiments, reproducible results, and writing code that’s actually pleasant to maintain.
+  I’m a CS + Math student (’26) who builds things at the intersection of software engineering and data science / ML - from fast, low-level tooling in Rust/C++ to end-to-end modeling workflows in Python/PyTorch. I care about clean experiments, reproducible results, and writing code that’s pleasant to maintain.
 </p>
 
 ###
