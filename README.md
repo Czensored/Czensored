@@ -30,8 +30,4 @@
   <img src="https://skillicons.dev/icons?i=sklearn" height="55" alt="scikit-learn" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=js" height="55" alt="javascript" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=html" height="55" alt="html" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=css" height="55" alt="css" />
 </div>
