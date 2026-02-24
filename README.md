@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Isaac</h1>
 
 <p align="center">
-  I’m a CS + Math student (’26) who builds things at the intersection of software engineering and data science / ML - from fast, low-level tooling in Rust/C++ to end-to-end modeling workflows in Python/PyTorch. I care about clean experiments, reproducible results, and writing code that’s pleasant to maintain.
+  I’m a CS + Math student (’26) who builds things at the intersection of software engineering and data science / ML - from fast, low-level tooling in Rust/C++ to end-to-end modeling workflows in Python/PyTorch. I care about clean experiments, reproducible results, and writing code that’s enjoyable to maintain.
 </p>
 
 ###
@@ -14,6 +14,8 @@
   <img src="https://skillicons.dev/icons?i=cpp" height="55" alt="c++" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=c" height="55" alt="c" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=js" height="55" alt="javascript" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=linux" height="55" alt="linux" />
   <img width="10" />
@@ -28,6 +30,4 @@
   <img src="https://skillicons.dev/icons?i=pytorch" height="55" alt="pytorch" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=sklearn" height="55" alt="scikit-learn" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=js" height="55" alt="javascript" />
 </div>
